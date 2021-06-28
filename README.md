@@ -1,7 +1,7 @@
 # CaesarCipher_Java
 
 PROJECT TITLE: Object Oriented Caesar Cipher
-VERSION or DATE: 24/oct/2017
+VERSION or DATE: 08/07/2020
 AUTHORS: Gorkem Toprak
 Assignment 1: One Key
 
